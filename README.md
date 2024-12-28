@@ -1,11 +1,19 @@
-# Python Basics and Intermediate Topics
+# Python Basics Repository
 
 ## Description:
-This repository contains Python programming examples for both **beginner** and **intermediate** levels. It covers key concepts such as variables, data types, loops, functions, object-oriented programming (OOP), APIs, and more.
+Welcome to the Python Basics repository! This repository is designed for beginners who want to learn Python step-by-step.
 
 ### Topics Covered:
-- **Beginner Topics**: Hello World, Variables, Data Types, Operators, Conditionals, Loops, Functions, Lists, Tuples, Dictionaries, File Handling, etc.
-- **Intermediate Topics**: Object-Oriented Programming (OOP), List Comprehensions, APIs, Decorators, Multithreading, Logging, Unit Testing, etc.
+1. Hello World
+2. Variables and Data Types
+3. Operators
+4. Conditional Statements
+5. Loops
+6. Functions
+7. Lists and Tuples
+8. Dictionaries and Sets
+9. File Handling
+10. Introduction to Object-Oriented Programming (OOP)
 
 Each topic includes:
 - A Python script with examples.
@@ -15,3 +23,4 @@ Each topic includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/arfa720/Python-Basics-and-Intermediate-Topics.git
+Happy Learning! 🚀
